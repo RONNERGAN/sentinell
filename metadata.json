@@ -1,0 +1,14 @@
+{
+  "name": "Sentinel PMS - State-of-the-Art Prison Management",
+  "description": "A centralized digital platform for managing inmate records, staff operations, security surveillance, and AI-driven intelligence monitoring.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "Inmate Tracking",
+    "Staff Scheduling",
+    "AI Security Monitoring",
+    "Visitor Management"
+  ]
+}
